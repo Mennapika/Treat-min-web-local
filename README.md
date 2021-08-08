@@ -1,4 +1,27 @@
-# Getting Started with Create React App
+# `Treat-min`
+It is an online platform (Website and Mobile Application) that provides an integrated medical service for the patient:<br/>
+* Booking Outpatient Clinics.
+* Booking Medical Services.
+* Emergency: Find nearest hospitals and First-aid to do.
+* Chatbot: Talk to chatbot to help you with your problems
+
+## Treat-min Links:
+* Website Deployed by Godady: https://treat-min.com
+* Website Demo Video Link: https://www.youtube.com/watch?v=L-_Ipe-amIY
+
+## Website Tools:
+* Basic Web Technologies (HTML, CSS and JavaScript)
+* Styled Components
+* React.Js & React-Redux
+* Material-UI Framework
+* AXIOS
+
+## Team Members:
+* Gerges Wegeh
+* Menna Naiem
+* Mohamed Ramadan
+
+## Run Website in localhost with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
